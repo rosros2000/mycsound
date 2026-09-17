@@ -1,6 +1,6 @@
 import mido
 import os
-
+ 
 INSTRUMENTS = [
     'Acoustic Grand Piano',
     'Bright Acoustic Piano',
